@@ -27,6 +27,7 @@ pkgs <- sort(c(
   "forcats", 
   "readr", 
   "ggplot2", 
+  "magrittr",
   "tibble",
   "tidyr", 
   "purrr", 
