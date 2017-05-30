@@ -24,7 +24,7 @@ Install the complete tidyverse with a single line of code:
 install.packages("tidyverse")
 ```
 
-Load the **core** tidyverse packages: ggplot2, tibble, tidyr, [readr](http://readr.tidyverse.org), purrr, and dplyr. These are the packages you are likely to use in almost every analyis.
+Load the **core** tidyverse packages: ggplot2, tibble, tidyr, [readr](http://readr.tidyverse.org), purrr, and dplyr. These are the packages you are likely to use in almost every analysis.
 
 ``` r
 library(tidyverse)
